@@ -17,3 +17,12 @@
 **Thoughts:**: being able to predictably access data out of what comes back from twitter api makes things easy. dictionaries are good for looking up data. Pushing tweets into a kinesis steam is particularly easy... consuming it may not be quite so easy
 
 **Link to work:** [Twitter Analysis (https://github.com/obassett/twitter-analysis)]
+
+### Day 3:July 15, 2018 
+##### 
+
+**Today's Progress**: Played Around with kenesis stream consumer that then fed the text of the tweets through AWS comprehend to do sentiment analysis. Super easy to use... really cool. Also learned what keyword arguments only means. Handy to know.
+
+**Thoughts:**: Life sometimes makes it challenging to set aside time. Heopfully that will get easier as the habit forms... having an 8 month old however means late evenings are typically it for me. Need to work on making sure I am ready to go.
+
+**Link to work:** [Twitter Analysis (https://github.com/obassett/twitter-analysis)]

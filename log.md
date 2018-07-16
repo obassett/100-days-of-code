@@ -26,3 +26,12 @@
 **Thoughts:**: Life sometimes makes it challenging to set aside time. Heopfully that will get easier as the habit forms... having an 8 month old however means late evenings are typically it for me. Need to work on making sure I am ready to go.
 
 **Link to work:** [Twitter Analysis (https://github.com/obassett/twitter-analysis)]
+
+### Day 4:July 16, 2018 
+##### 
+
+**Today's Progress**:  Wrote python to create Kinesis Stream so that I can create it at the beginning of hte day to cut my AWS costs while I am playing - Put it basic checking to make sure a stream with that name doesn't already exist. Also created deletion script.
+
+**Thoughts:**:  It was interesting to read that [-1:] would return the last value of a list, and that if it was an empty list it would return an empty value rather than an exception. However meant that it was returning a list object rather than the string element. This took me a while to figure out that it was the : causing that. 
+
+**Link to work:** [Twitter Analysis (https://github.com/obassett/twitter-analysis)]

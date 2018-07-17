@@ -35,3 +35,12 @@
 **Thoughts:**:  It was interesting to read that [-1:] would return the last value of a list, and that if it was an empty list it would return an empty value rather than an exception. However meant that it was returning a list object rather than the string element. This took me a while to figure out that it was the : causing that. 
 
 **Link to work:** [Twitter Analysis (https://github.com/obassett/twitter-analysis)]
+
+### Day 5:July 16, 2018 
+##### 
+
+**Today's Progress**:  Started working freeCodeCamp since I need to learn some front-end stuff. Did the Basic HTML and HTML5 activities and then started on the Basic CSS and did the first few activities
+
+**Thoughts:**:  CSS was brand new when I last touched HTML... it has been a while.
+
+**Link to work:** N/A today since it was all on freecodecamp

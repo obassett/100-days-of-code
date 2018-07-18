@@ -36,11 +36,20 @@
 
 **Link to work:** [Twitter Analysis (https://github.com/obassett/twitter-analysis)]
 
-### Day 5:July 16, 2018 
+### Day 5:July 17, 2018 
 ##### 
 
 **Today's Progress**:  Started working freeCodeCamp since I need to learn some front-end stuff. Did the Basic HTML and HTML5 activities and then started on the Basic CSS and did the first few activities
 
 **Thoughts:**:  CSS was brand new when I last touched HTML... it has been a while.
+
+**Link to work:** N/A today since it was all on freecodecamp
+
+### Day 6: July 18, 2018 
+##### 
+
+**Today's Progress**:  Worked Through freecodecamp CSS and then started on applied visual design.
+
+**Thoughts:**:  So much to learn, and HTML has come a long way since HTML3
 
 **Link to work:** N/A today since it was all on freecodecamp

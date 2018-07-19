@@ -53,3 +53,12 @@
 **Thoughts:**:  So much to learn, and HTML has come a long way since HTML3
 
 **Link to work:** N/A today since it was all on freecodecamp
+
+### Day 7: July 98, 2018 
+##### 
+
+**Today's Progress**:  Slow night tonight, as I went out earlier. Finished the applied visual design section on freecodecamp
+
+**Thoughts:**:  Wow, animation capabilities in basic HTML/CSS... kinda crazy.
+
+**Link to work:** N/A today since it was all on freecodecamp

@@ -54,11 +54,20 @@
 
 **Link to work:** N/A today since it was all on freecodecamp
 
-### Day 7: July 98, 2018 
+### Day 7: July 19, 2018 
 ##### 
 
 **Today's Progress**:  Slow night tonight, as I went out earlier. Finished the applied visual design section on freecodecamp
 
 **Thoughts:**:  Wow, animation capabilities in basic HTML/CSS... kinda crazy.
+
+**Link to work:** N/A today since it was all on freecodecamp
+
+### Day 8: July 20, 2018 
+##### 
+
+**Today's Progress**:  Tired still, busy with work Managed to do the hour but slow going working through Applied Accessibility on FreeCodeCamp
+
+**Thoughts:**:  lots to think about making sure the accessibility on a website is taken care of. 
 
 **Link to work:** N/A today since it was all on freecodecamp

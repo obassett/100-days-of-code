@@ -71,3 +71,12 @@
 **Thoughts:**:  lots to think about making sure the accessibility on a website is taken care of. 
 
 **Link to work:** N/A today since it was all on freecodecamp
+
+### Day 9: July 21, 2018 
+##### 
+
+**Today's Progress**:  Finished off the FreeCodeCamp Applied Accessibility and also Responsive Web Design Pricinciples
+
+**Thoughts:**:  I like the idea of good accessibillity, and the concepts and ability to automatically adjust based on the size of the display being used to access content.
+
+**Link to work:** N/A today since it was all on freecodecamp

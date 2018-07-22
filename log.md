@@ -80,3 +80,12 @@
 **Thoughts:**:  I like the idea of good accessibillity, and the concepts and ability to automatically adjust based on the size of the display being used to access content.
 
 **Link to work:** N/A today since it was all on freecodecamp
+
+### Day 10: July 22, 2018 
+##### 
+
+**Today's Progress**:  Finished All the lessons under Responsive Web Design. Now I need to start on the projects on FreeCofeCamp. Frst up will be the Tribute Page.
+
+**Thoughts:**:  So far content has been relatively easy, I expect it will get a lot harded. Looking forward to the projects.
+
+**Link to work:** N/A today since it was all on freecodecamp

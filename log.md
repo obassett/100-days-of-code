@@ -89,3 +89,12 @@
 **Thoughts:**:  So far content has been relatively easy, I expect it will get a lot harded. Looking forward to the projects.
 
 **Link to work:** N/A today since it was all on freecodecamp
+
+### Day 11: July 23, 2018 
+##### 
+
+**Today's Progress**:  Today was about building out my tribute page for the FCC project. Trying to come up with one I wanted to do.
+
+**Thoughts:**:   ...
+
+**Link to work:** 

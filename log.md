@@ -98,3 +98,12 @@
 **Thoughts:**:   ...
 
 **Link to work:** 
+
+### Day 12: July 24, 2018 
+##### 
+
+**Today's Progress**:  Conintued working on my FCC Tribute page. It now works generally (and passes the test requirements). Content isn't finialised yet, and still toying with color schemes. 
+
+**Thoughts:**:   
+
+**Link to work:** 

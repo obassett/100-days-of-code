@@ -107,3 +107,21 @@
 **Thoughts:**:   
 
 **Link to work:** 
+
+### Day 13: July 27, 2018 
+##### 
+
+**Today's Progress**:  Started working through exception handling in Python. Learned all about try and except. Actaully useful and relatively straighforward (once you start actaully reading the docs for API's you are calling). Added error handling to the twitter stream, started looking at handling kinesis when you fill the shard, and how to split the add more shards. still wokring that out. Also think of siwthc from kinesis streams to firehose into S3 and using SNS on the back of that to handle the actaul sentiment analysis as I keep the history of the streams to go back to later, and also it might be easier to scale.
+
+**Thoughts:**: Missing 2 days in a row sucked. But family comes first. Nice to get back to my own project for a bit rather than the tutorial project thing in FCC, but I need to get back to the rest of them soon.
+
+**Link to work:** 
+
+### Day 14: July 28, 2018 
+##### 
+
+**Today's Progress**:  Added a lot more exception handling to twitter pull script. Modified it to batch up the tweets before pushing into kinesis stream to improve performance and tested. Built in some degree of autoscale capability based on exceptions being thrown, but haven't been able to test yet as I can't seem to get it to throw the exception.
+
+**Thoughts:**: Exception Handling ended up being a little harder than I though... forgot you needed to actually import the handlers from the libaries.
+
+**Link to work:** 

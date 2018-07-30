@@ -125,3 +125,21 @@
 **Thoughts:**: Exception Handling ended up being a little harder than I though... forgot you needed to actually import the handlers from the libaries.
 
 **Link to work:** 
+
+### Day 15: July 29, 2018 
+##### 
+
+**Today's Progress**:  So found out that kinesis client doesn't throw the exception as an exception anymore but instead returns the error in the results and also returns a count. So wrote a bunch of code to process the error, detect the provisioned throughput exceeded error, capture the tweets to try again with and then pull the shard that I am going to split to increase performance. but then I read that you actually just want to increase the shard coutn (by double), rather than just splitting a single stream, to limit the operations... so I really didn't need to pull the shard name.
+
+**Thoughts:**: RegEx's.... 
+
+**Link to work:** 
+
+### Day 16: July 30, 2018 
+##### 
+
+**Today's Progress**:  It all auotscales nicely etc... but I look at my code and what I need is to break it down into modules and functions. Ease the repitiion etc.
+
+**Thoughts:**: should have started with a better plan and built modules and functions as I went. Ah well.
+
+**Link to work:** 

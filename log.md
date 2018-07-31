@@ -143,3 +143,12 @@
 **Thoughts:**: should have started with a better plan and built modules and functions as I went. Ah well.
 
 **Link to work:** 
+
+### Day 17: July 31, 2018 
+##### 
+
+**Today's Progress**:  Built a function to take the source and results for kinesis put_records and build a rebsumit list for the data.
+
+**Thoughts:**: I like functions. I should build everything I need as functions.
+
+**Link to work:** [Twitter Analysis (https://github.com/obassett/twitter-analysis)]

@@ -152,3 +152,31 @@
 **Thoughts:**: I like functions. I should build everything I need as functions.
 
 **Link to work:** [Twitter Analysis (https://github.com/obassett/twitter-analysis)]
+
+### Day 18: August 1, 2018 
+##### 
+
+**Today's Progress**:  Today I spend reading about DynamoDB and partition keys and how to structure the keys for performance. 
+
+**Thoughts:**: After reading and thinking about it, I want to store the full tweet object in a table along with the sentiment results, and in addition I want a second small table that just stores the current totals for the sentiments to make access the values and graphing it a lot faster. this is also contain the key of the last processed value (in case I want to look it up later)
+
+**Link to work:** [Twitter Analysis (https://github.com/obassett/twitter-analysis)]
+
+
+### Day 19: August 2, 2018 
+##### 
+
+**Today's Progress**:  Decided on data structure and started building out what hte lambda function will look like Assembled test records to send through to function.
+
+**Thoughts:**: ..
+
+**Link to work:** [Twitter Analysis (https://github.com/obassett/twitter-analysis)]
+
+### Day 20: August 3, 2018 
+##### 
+
+**Today's Progress**:  Built out the basic structure of the lambda function, and put in all the stub sub functions that I will use. Still need to build out the stubs.
+
+**Thoughts:**: ..
+
+**Link to work:** [Twitter Analysis (https://github.com/obassett/twitter-analysis)]

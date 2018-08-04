@@ -180,3 +180,12 @@
 **Thoughts:**: ..
 
 **Link to work:** [Twitter Analysis (https://github.com/obassett/twitter-analysis)]
+
+### Day 21: August 4, 2018 
+##### 
+
+**Today's Progress**:  Finished off lambda function. playing with k:v pairs and passing through to funtions and using afterwards was interesting. understanding that I can pass the rest of a set of key vlaues in using kwargs and that it is a dict, so you can actaully pass the values in as a dict object, or pass the values through to a funciton using hte **notation.
+
+**Thoughts:**: ..
+
+**Link to work:** [Twitter Analysis (https://github.com/obassett/twitter-analysis)]

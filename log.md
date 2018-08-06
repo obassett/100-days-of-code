@@ -189,3 +189,12 @@
 **Thoughts:**: ..
 
 **Link to work:** [Twitter Analysis (https://github.com/obassett/twitter-analysis)]
+
+### Day 22: August 5, 2018 
+##### 
+
+**Today's Progress**:  Started reading about django and zappa so that I can run a totally serverless python server. This will hopefully give me a platform to do visualisations off of.
+
+**Thoughts:**: ..
+
+**Link to work:** [Twitter Analysis (https://github.com/obassett/twitter-analysis)]
